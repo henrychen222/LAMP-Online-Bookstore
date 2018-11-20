@@ -7,7 +7,7 @@ The Project Requirements and Specifications are here
 http://wenchen.cs.und.edu/course/457/exercise/1/ (Professor's website, may change during different semesters or unavailable)
 
 OR
-https://weichen.neocities.org/457_Exercise1.html
+https://weichen.neocities.org/457_Exercise1.html (My Website)
 
 
 Time: 01/2017 ~ 04/2017
