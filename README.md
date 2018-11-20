@@ -3,6 +3,7 @@
 UND class project (CSCI 457)
 
 The Project Requirements and Specifications are here
+
 http://wenchen.cs.und.edu/course/457/exercise/1/ (Professor's website, may change during different semesters or unavailable)
 
 OR
